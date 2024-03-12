@@ -6,4 +6,5 @@
   <li>1 BreadBoard</li>
   <li>3 Servo Moteur</li>
   <li>3 Potentiomètres</li>
+  <li>1 Module Bluetooth</li>
 </ul>
