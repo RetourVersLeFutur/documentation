@@ -1,10 +1,10 @@
 # Hackathon-Doc
-<h2>Liste des Composants :</h2>
-<ul>
-  <li>1 Arduino Uno et son cable d'alimentation</li>
-  <li>1 Batterie Externe et son chargeur</li>
-  <li>1 BreadBoard</li>
-  <li>3 Servo Moteur</li>
-  <li>3 Potentiomètres</li>
-  <li>1 Module Bluetooth</li>
-</ul>
+## Liste des Composants :
+- 1 Arduino Uno et son cable d'alimentation.
+- 1 Batterie Externe et son chargeur.
+- 1 BreadBoard.
+- 3 Servo Moteur.
+- 3 Potentiomètres.
+- 1 Module Bluetooth.
+![Capture d'écran 2024-03-12 121758](https://github.com/RetourVersLeFutur/hackathon-doc/assets/85597175/b936e52d-4890-4a8b-81a6-838379f08d57)
+
