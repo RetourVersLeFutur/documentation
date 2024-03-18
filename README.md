@@ -42,7 +42,7 @@
 
   <li><h3>Ressources Supplémentaires</h3>
     <ul>
-      <li><a href="07-Ressources-Suplémentaires.md">Liens vers des Tutoriels, Articles ou Bibliothèques Utilisées.</a></li>
+      <li><a href="07-Ressources-Supplémentaires.md">Liens vers des Tutoriels, Articles ou Bibliothèques Utilisées.</a></li>
     </ul>
   </li>
 </ul>
