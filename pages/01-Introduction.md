@@ -1,6 +1,6 @@
 <h3>Objectif du Projet</h3>
 <p>Le projet vise à concevoir et à créer un robot contrôlé par un Arduino Uno, trois servo-moteurs et trois potentiomètres.<br>
-  L'objectif principal est de permettre aux participants de concevoir et de développer un robot capable d'exécuter des mouvements précis et contrôlés à l'aide des potentiomètres pour ajuster les positions des servo-moteurs.</p>
+L'objectif principal est de permettre aux participants de concevoir et de développer un robot capable d'exécuter des mouvements précis et contrôlés à l'aide des potentiomètres pour ajuster les positions des servo-moteurs.</p>
 
 <h3>Contexte du Hackathon</h3>
 <ul>
